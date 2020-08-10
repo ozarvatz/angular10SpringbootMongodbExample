@@ -11,6 +11,7 @@
   },
   "private": true,
   "dependencies": {
+    "@akveo/ng2-completer": "^9.0.1",
     "@angular/animations": "~10.1.0-next.4",
     "@angular/common": "~10.1.0-next.4",
     "@angular/compiler": "~10.1.0-next.4",
@@ -19,7 +20,10 @@
     "@angular/platform-browser": "~10.1.0-next.4",
     "@angular/platform-browser-dynamic": "~10.1.0-next.4",
     "@angular/router": "~10.1.0-next.4",
+    "cors": "^2.8.5",
+    "ng2-smart-table": "^1.6.0",
     "rxjs": "~6.6.0",
+    "rxjs-compat": "^6.6.2",
     "tslib": "^2.0.0",
     "zone.js": "~0.10.2"
   },
